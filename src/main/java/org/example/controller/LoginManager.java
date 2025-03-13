@@ -1,9 +1,11 @@
-package org.example;
+package org.example.controller;
 
 
 import java.io.BufferedReader;
 import java.io.FileReader;
 import java.io.FileWriter;
+
+import org.example.model.Admin;
 
 public class LoginManager {
     static String userFilePath = "user.txt";
