@@ -1,0 +1,2 @@
+id;Name;Suname;email;haslo;RokUrodzdenia;Pesel;up(1-admin,2-instruktor,3-kursant);PKK;Miejscowość; ulica; nr_domu; nr_lokalu;
+1;Radek;Dam;rd@gmail.com;1234;1980;00000000000;1;
